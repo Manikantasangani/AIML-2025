@@ -7,4 +7,4 @@
 # Lab Code No tebooks
 1. [Lab01](https://github.com/Manikantasangani/AIML-2025/blob/main/Lab1%20manikanta.ipynb)
 2. [Lab02](https://github.com/Manikantasangani/AIML-2025/blob/main/Lab2.ipynb)
-3. [Lab03]()
+3. [Lab03](https://github.com/Manikantasangani/AIML-2025/blob/main/Lab3.ipynb)
